@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Kite 33 Home Appliances model 33. power_watts: 600, capacity_liters: 2, warranty_years: 2. Features: energy saving, timer.
+This fictional manual is for demonstration. No independent performance tests are available.

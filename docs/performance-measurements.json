@@ -1,0 +1,41 @@
+{
+  "deployment": "dpl_DVajNSWrgx9V4Fu978nrgAXsHRhr",
+  "samples": [
+    {
+      "path": "/api/health",
+      "status": 200,
+      "ms": 702,
+      "region_trace": "bom1::sin1::qgf5g-1793896059735-1c18565ed84f"
+    },
+    {
+      "path": "/api/auth/status",
+      "status": 200,
+      "ms": 642,
+      "region_trace": "bom1::sin1::w6ch2-1793896060335-3deba8993f4e"
+    },
+    {
+      "path": "/api/auth/me",
+      "status": 200,
+      "ms": 432,
+      "region_trace": "bom1::sin1::jrgn7-1793896060981-4ddad94f5ecf"
+    },
+    {
+      "path": "/api/health",
+      "status": 200,
+      "ms": 346,
+      "region_trace": "bom1::sin1::l622l-1793896061414-007448e558f7"
+    },
+    {
+      "path": "/api/auth/status",
+      "status": 200,
+      "ms": 153,
+      "region_trace": "bom1::sin1::l622l-1793896061756-2c153c551e97"
+    },
+    {
+      "path": "/api/auth/me",
+      "status": 200,
+      "ms": 198,
+      "region_trace": "bom1::sin1::l622l-1793896061908-b5085c4aa669"
+    }
+  ]
+}

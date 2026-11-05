@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Novum 22 Laptops model 22. ram_gb: 16, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 9. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.
+This fictional manual is for demonstration. No independent performance tests are available.

@@ -1,0 +1,485 @@
+{
+  "id": "cd56175e22a94cc5a309a0df26cb9748",
+  "created_at": "2026-11-05T15:32:22.376600+00:00",
+  "metrics": [
+    {
+      "method": "keyword",
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.1498,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.1498,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 23.938,
+      "response_ms": 63.928,
+      "faithfulness": null,
+      "answer_relevance": null
+    },
+    {
+      "method": "vector",
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.1498,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.1498,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 22.2056,
+      "response_ms": 67.21,
+      "faithfulness": null,
+      "answer_relevance": null
+    },
+    {
+      "method": "graph",
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.1498,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.1498,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 22.368,
+      "response_ms": 61.786,
+      "faithfulness": null,
+      "answer_relevance": null
+    },
+    {
+      "method": "hybrid",
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.1498,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.1498,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 24.048,
+      "response_ms": 58.34,
+      "faithfulness": null,
+      "answer_relevance": null
+    }
+  ],
+  "cases": [
+    {
+      "method": "keyword",
+      "query": "Find laptops with 16GB RAM and SSD",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.078125,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.078125,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 22.125,
+      "response_ms": 55.59,
+      "relevant_count": 64,
+      "retrieved_ids": [
+        "P0008",
+        "P0015",
+        "P0057",
+        "P0064",
+        "P0078"
+      ]
+    },
+    {
+      "method": "keyword",
+      "query": "Find laptops suitable for machine learning with 32GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.25,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.25,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 28.686,
+      "response_ms": 73.37,
+      "relevant_count": 20,
+      "retrieved_ids": [
+        "P0029",
+        "P0036",
+        "P0099",
+        "P0122",
+        "P0192"
+      ]
+    },
+    {
+      "method": "keyword",
+      "query": "Find smartphones with 12GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.13157894736842105,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.13157894736842105,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 18.695,
+      "response_ms": 58.78,
+      "relevant_count": 38,
+      "retrieved_ids": [
+        "P0009",
+        "P0030",
+        "P0051",
+        "P0065",
+        "P0086"
+      ]
+    },
+    {
+      "method": "keyword",
+      "query": "Find headphones with 24 hours battery",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.08928571428571429,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.08928571428571429,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 22.093,
+      "response_ms": 67.11,
+      "relevant_count": 56,
+      "retrieved_ids": [
+        "P0124",
+        "P0424",
+        "P0010",
+        "P0031",
+        "P0038"
+      ]
+    },
+    {
+      "method": "keyword",
+      "query": "Find laptops under $1000 with 16GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.2,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.2,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 28.091,
+      "response_ms": 64.79,
+      "relevant_count": 25,
+      "retrieved_ids": [
+        "P0015",
+        "P0078",
+        "P0143",
+        "P0178",
+        "P0199"
+      ]
+    },
+    {
+      "method": "vector",
+      "query": "Find laptops with 16GB RAM and SSD",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.078125,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.078125,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 23.098,
+      "response_ms": 71.18,
+      "relevant_count": 64,
+      "retrieved_ids": [
+        "P0057",
+        "P0143",
+        "P0150",
+        "P0185",
+        "P0199"
+      ]
+    },
+    {
+      "method": "vector",
+      "query": "Find laptops suitable for machine learning with 32GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.25,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.25,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 27.353,
+      "response_ms": 83.22,
+      "relevant_count": 20,
+      "retrieved_ids": [
+        "P0029",
+        "P0492",
+        "P0036",
+        "P0099",
+        "P0122"
+      ]
+    },
+    {
+      "method": "vector",
+      "query": "Find smartphones with 12GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.13157894736842105,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.13157894736842105,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 20.604,
+      "response_ms": 68.54,
+      "relevant_count": 38,
+      "retrieved_ids": [
+        "P0009",
+        "P0030",
+        "P0065",
+        "P0093",
+        "P0100"
+      ]
+    },
+    {
+      "method": "vector",
+      "query": "Find headphones with 24 hours battery",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.08928571428571429,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.08928571428571429,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 20.721,
+      "response_ms": 59.78,
+      "relevant_count": 56,
+      "retrieved_ids": [
+        "P0059",
+        "P0073",
+        "P0087",
+        "P0103",
+        "P0117"
+      ]
+    },
+    {
+      "method": "vector",
+      "query": "Find laptops under $1000 with 16GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.2,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.2,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 19.252,
+      "response_ms": 53.33,
+      "relevant_count": 25,
+      "retrieved_ids": [
+        "P0015",
+        "P0029",
+        "P0050",
+        "P0143",
+        "P0199"
+      ]
+    },
+    {
+      "method": "graph",
+      "query": "Find laptops with 16GB RAM and SSD",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.078125,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.078125,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 23.737000000000002,
+      "response_ms": 62.93,
+      "relevant_count": 64,
+      "retrieved_ids": [
+        "P0008",
+        "P0015",
+        "P0022",
+        "P0029",
+        "P0036"
+      ]
+    },
+    {
+      "method": "graph",
+      "query": "Find laptops suitable for machine learning with 32GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.25,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.25,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 24.655,
+      "response_ms": 58.47,
+      "relevant_count": 20,
+      "retrieved_ids": [
+        "P0029",
+        "P0036",
+        "P0099",
+        "P0122",
+        "P0192"
+      ]
+    },
+    {
+      "method": "graph",
+      "query": "Find smartphones with 12GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.13157894736842105,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.13157894736842105,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 17.570999999999998,
+      "response_ms": 59.13,
+      "relevant_count": 38,
+      "retrieved_ids": [
+        "P0009",
+        "P0030",
+        "P0051",
+        "P0065",
+        "P0086"
+      ]
+    },
+    {
+      "method": "graph",
+      "query": "Find headphones with 24 hours battery",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.08928571428571429,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.08928571428571429,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 21.4,
+      "response_ms": 64.92,
+      "relevant_count": 56,
+      "retrieved_ids": [
+        "P0124",
+        "P0424",
+        "P0010",
+        "P0031",
+        "P0038"
+      ]
+    },
+    {
+      "method": "graph",
+      "query": "Find laptops under $1000 with 16GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.2,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.2,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 24.477,
+      "response_ms": 63.48,
+      "relevant_count": 25,
+      "retrieved_ids": [
+        "P0015",
+        "P0029",
+        "P0050",
+        "P0078",
+        "P0099"
+      ]
+    },
+    {
+      "method": "hybrid",
+      "query": "Find laptops with 16GB RAM and SSD",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.078125,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.078125,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 26.438000000000002,
+      "response_ms": 56.62,
+      "relevant_count": 64,
+      "retrieved_ids": [
+        "P0057",
+        "P0143",
+        "P0150",
+        "P0185",
+        "P0199"
+      ]
+    },
+    {
+      "method": "hybrid",
+      "query": "Find laptops suitable for machine learning with 32GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.25,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.25,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 31.923,
+      "response_ms": 64.51,
+      "relevant_count": 20,
+      "retrieved_ids": [
+        "P0029",
+        "P0036",
+        "P0492",
+        "P0099",
+        "P0122"
+      ]
+    },
+    {
+      "method": "hybrid",
+      "query": "Find smartphones with 12GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.13157894736842105,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.13157894736842105,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 21.996000000000002,
+      "response_ms": 54.98,
+      "relevant_count": 38,
+      "retrieved_ids": [
+        "P0009",
+        "P0030",
+        "P0065",
+        "P0093",
+        "P0100"
+      ]
+    },
+    {
+      "method": "hybrid",
+      "query": "Find headphones with 24 hours battery",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.08928571428571429,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.08928571428571429,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 19.424,
+      "response_ms": 57.94,
+      "relevant_count": 56,
+      "retrieved_ids": [
+        "P0124",
+        "P0424",
+        "P0059",
+        "P0073",
+        "P0087"
+      ]
+    },
+    {
+      "method": "hybrid",
+      "query": "Find laptops under $1000 with 16GB RAM",
+      "k": 5,
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.2,
+      "mrr": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.2,
+      "evidence_coverage": 1.0,
+      "retrieval_ms": 20.459,
+      "response_ms": 57.65,
+      "relevant_count": 25,
+      "retrieved_ids": [
+        "P0015",
+        "P0029",
+        "P0143",
+        "P0199",
+        "P0208"
+      ]
+    }
+  ],
+  "protocol": "Five deterministic synthetic constraint queries. Ground truth is all products meeting structured requirements. Macro average over queries; distinct product ranking. Recall denominator includes all relevant products, not only top K. Context metrics use product-level relevance, not RAGAS chunk judgments.",
+  "ragas": {
+    "status": "not_run",
+    "reason": "LLM-judged faithfulness and answer relevance require a separately configured evaluator and human-reviewed reference answers; never substituted with heuristic scores."
+  }
+}

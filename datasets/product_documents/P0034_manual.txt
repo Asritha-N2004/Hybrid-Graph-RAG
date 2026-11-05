@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 34 Smart Devices model 34. power_watts: 5, warranty_years: 1, wifi: True. Features: smart home, voice control.
+This fictional manual is for demonstration. No independent performance tests are available.

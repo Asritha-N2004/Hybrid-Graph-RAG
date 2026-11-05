@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 15 Laptops model 15. ram_gb: 32, storage_gb: 1024, storage_type: SSD, gpu_vram_gb: 4, battery_hours: 16. Features: USB-C, Wi-Fi 6, everyday computing.
+This fictional manual is for demonstration. No independent performance tests are available.

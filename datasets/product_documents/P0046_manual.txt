@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Aster 46 Electronics model 46. power_watts: 20, warranty_years: 2, weight_g: 235. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

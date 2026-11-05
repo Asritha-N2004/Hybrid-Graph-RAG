@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 30 Smartphones model 30. ram_gb: 12, storage_gb: 512, battery_mah: 5000, display_inches: 6.4. Features: 5G, OLED, USB-C.
+This fictional manual is for demonstration. No independent performance tests are available.

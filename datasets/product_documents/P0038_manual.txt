@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Kite 38 Headphones model 38. battery_hours: 46, weight_g: 248, noise_cancellation: False. Features: Bluetooth, wireless audio.
+This fictional manual is for demonstration. No independent performance tests are available.

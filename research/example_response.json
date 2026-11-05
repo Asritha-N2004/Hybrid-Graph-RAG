@@ -1,0 +1,2752 @@
+{
+  "id": "91f450a496be4fb38daf8605d0464f0d",
+  "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+  "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+  "method": "hybrid",
+  "created_at": "2026-11-05T15:32:21.084467+00:00",
+  "answer": "Retrieved source information:\n\nFictional Novum 22 Laptop 0022 \u2014 ram gb: 16, storage gb: 2048, storage type: SSD, gpu vram gb: 12, battery hours: 9. [SRC-P0022-1]\n\nFictional Vertex 50 Laptop 0050 \u2014 ram gb: 16, storage gb: 512, storage type: SSD, gpu vram gb: 12, battery hours: 13. [SRC-P0050-1]\n\nFictional Lumen 29 Laptop 0029 \u2014 ram gb: 64, storage gb: 512, storage type: SSD, gpu vram gb: 8, battery hours: 7. [SRC-P0029-1]\n\nFictional Novum 42 Laptop 0092 \u2014 ram gb: 16, storage gb: 1024, storage type: SSD, gpu vram gb: 8, battery hours: 7. [SRC-P0092-1]\n\nFictional Kite 43 Laptop 0243 \u2014 ram gb: 16, storage gb: 512, storage type: SSD, gpu vram gb: 8, battery hours: 7. [SRC-P0243-1]\n\nSynthetic sample information: these fictional specifications and prices are not verified real-world product information.\n\nInterpretation: Machine learning suitability uses a disclosed heuristic: at least 8 GB GPU VRAM; no benchmark guarantee.",
+  "claims": [
+    {
+      "product_id": "P0022",
+      "field": "name",
+      "value": "Fictional Novum 22 Laptop 0022",
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "field": "specifications.ram_gb",
+      "value": 16,
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "field": "specifications.storage_gb",
+      "value": 2048,
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "field": "specifications.storage_type",
+      "value": "SSD",
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "field": "specifications.gpu_vram_gb",
+      "value": 12,
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "field": "specifications.battery_hours",
+      "value": 9,
+      "evidence_ids": [
+        "SRC-P0022-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "name",
+      "value": "Fictional Vertex 50 Laptop 0050",
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "specifications.ram_gb",
+      "value": 16,
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "specifications.storage_gb",
+      "value": 512,
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "specifications.storage_type",
+      "value": "SSD",
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "specifications.gpu_vram_gb",
+      "value": 12,
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "field": "specifications.battery_hours",
+      "value": 13,
+      "evidence_ids": [
+        "SRC-P0050-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "name",
+      "value": "Fictional Lumen 29 Laptop 0029",
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "specifications.ram_gb",
+      "value": 64,
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "specifications.storage_gb",
+      "value": 512,
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "specifications.storage_type",
+      "value": "SSD",
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "specifications.gpu_vram_gb",
+      "value": 8,
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "field": "specifications.battery_hours",
+      "value": 7,
+      "evidence_ids": [
+        "SRC-P0029-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "name",
+      "value": "Fictional Novum 42 Laptop 0092",
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "specifications.ram_gb",
+      "value": 16,
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "specifications.storage_gb",
+      "value": 1024,
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "specifications.storage_type",
+      "value": "SSD",
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "specifications.gpu_vram_gb",
+      "value": 8,
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "field": "specifications.battery_hours",
+      "value": 7,
+      "evidence_ids": [
+        "SRC-P0092-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "name",
+      "value": "Fictional Kite 43 Laptop 0243",
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "specifications.ram_gb",
+      "value": 16,
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "specifications.storage_gb",
+      "value": 512,
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "specifications.storage_type",
+      "value": "SSD",
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "specifications.gpu_vram_gb",
+      "value": 8,
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    },
+    {
+      "product_id": "P0243",
+      "field": "specifications.battery_hours",
+      "value": 7,
+      "evidence_ids": [
+        "SRC-P0243-1"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "MAN022-1",
+      "text": "SYNTHETIC SAMPLE. Fictional Novum 22 Laptops model 22. ram_gb: 16, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 9. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nThis fictional manual is for demonstration. No independent performance tests are available.",
+      "page": 1,
+      "document_id": "MAN022",
+      "filename": "P0022_manual.txt",
+      "synthetic": true,
+      "product_ids": [
+        "P0022"
+      ],
+      "evidence_id": "MAN022-1",
+      "scores": {
+        "vector": 1.0,
+        "keyword": 1.0,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.4,
+        "keyword": 0.25,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 1.0,
+      "graph_paths": [
+        {
+          "source": "P0022",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B022",
+          "label": "Fictional Novum 22"
+        },
+        {
+          "source": "P0022",
+          "relationship": "BELONGS_TO",
+          "target": "C022",
+          "label": "Laptops / Series 4"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:2048",
+          "label": "storage_gb: 2048"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:12",
+          "label": "gpu_vram_gb: 12"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:9",
+          "label": "battery_hours: 9"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0022",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0022",
+          "label": "2473.33 USD"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0022",
+          "label": "P0022.json"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN022",
+          "label": "P0022_manual.txt"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ022",
+          "label": "FAQ022.json"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SIMILAR_TO",
+          "target": "P0122",
+          "label": "Fictional Novum 22 Laptop 0122"
+        }
+      ],
+      "products": [
+        {
+          "id": "P0022",
+          "name": "Fictional Novum 22 Laptop 0022",
+          "brand_id": "B022",
+          "brand": "Fictional Novum 22",
+          "category_id": "C022",
+          "category": "Laptops / Series 4",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Novum 22 Laptops model 22. ram_gb: 16, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 9. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 2473.33,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 2048,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 12,
+            "battery_hours": 9
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "rerank_score": 1.1
+    },
+    {
+      "id": "MAN050-1",
+      "text": "SYNTHETIC SAMPLE. Fictional Vertex 50 Laptops model 50. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nThis fictional manual is for demonstration. No independent performance tests are available.",
+      "page": 1,
+      "document_id": "MAN050",
+      "filename": "P0050_manual.txt",
+      "synthetic": true,
+      "product_ids": [
+        "P0050"
+      ],
+      "evidence_id": "MAN050-1",
+      "scores": {
+        "vector": 0.9885712507910225,
+        "keyword": 1.0,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.395428500316409,
+        "keyword": 0.25,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9954285003164091,
+      "graph_paths": [
+        {
+          "source": "P0050",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B050",
+          "label": "Fictional Vertex 50"
+        },
+        {
+          "source": "P0050",
+          "relationship": "BELONGS_TO",
+          "target": "C050",
+          "label": "Laptops / Series 8"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:512",
+          "label": "storage_gb: 512"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:12",
+          "label": "gpu_vram_gb: 12"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:13",
+          "label": "battery_hours: 13"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0050",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0050",
+          "label": "453.56 USD"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0050",
+          "label": "P0050.json"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN050",
+          "label": "P0050_manual.txt"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ050",
+          "label": "FAQ050.json"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SIMILAR_TO",
+          "target": "P0150",
+          "label": "Fictional Vertex 50 Laptop 0150"
+        }
+      ],
+      "products": [
+        {
+          "id": "P0050",
+          "name": "Fictional Vertex 50 Laptop 0050",
+          "brand_id": "B050",
+          "brand": "Fictional Vertex 50",
+          "category_id": "C050",
+          "category": "Laptops / Series 8",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Vertex 50 Laptops model 50. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 453.56,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 512,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 12,
+            "battery_hours": 13
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "rerank_score": 1.09497135034805
+    },
+    {
+      "id": "MAN029-1",
+      "text": "SYNTHETIC SAMPLE. Fictional Lumen 29 Laptops model 29. ram_gb: 64, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nThis fictional manual is for demonstration. No independent performance tests are available.",
+      "page": 1,
+      "document_id": "MAN029",
+      "filename": "P0029_manual.txt",
+      "synthetic": true,
+      "product_ids": [
+        "P0029"
+      ],
+      "evidence_id": "MAN029-1",
+      "scores": {
+        "vector": 0.8640186686710585,
+        "keyword": 1.0,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.3456074674684234,
+        "keyword": 0.25,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9456074674684234,
+      "graph_paths": [
+        {
+          "source": "P0029",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B029",
+          "label": "Fictional Lumen 29"
+        },
+        {
+          "source": "P0029",
+          "relationship": "BELONGS_TO",
+          "target": "C029",
+          "label": "Laptops / Series 5"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:64",
+          "label": "ram_gb: 64"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:512",
+          "label": "storage_gb: 512"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:8",
+          "label": "gpu_vram_gb: 8"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:7",
+          "label": "battery_hours: 7"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0029",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0029",
+          "label": "653.24 USD"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0029",
+          "label": "P0029.json"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN029",
+          "label": "P0029_manual.txt"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ029",
+          "label": "FAQ029.json"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SIMILAR_TO",
+          "target": "P0129",
+          "label": "Fictional Lumen 29 Laptop 0129"
+        }
+      ],
+      "products": [
+        {
+          "id": "P0029",
+          "name": "Fictional Lumen 29 Laptop 0029",
+          "brand_id": "B029",
+          "brand": "Fictional Lumen 29",
+          "category_id": "C029",
+          "category": "Laptops / Series 5",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Lumen 29 Laptops model 29. ram_gb: 64, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 653.24,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 64,
+            "storage_gb": 512,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 8,
+            "battery_hours": 7
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "rerank_score": 1.0401682142152657
+    },
+    {
+      "id": "SRC-P0092-1",
+      "text": "Fictional Novum 42 Laptop 0092\nSYNTHETIC SAMPLE. Fictional Novum 42 Laptops model 92. ram_gb: 16, storage_gb: 1024, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nStructured specifications: {\"ram_gb\": 16, \"storage_gb\": 1024, \"storage_type\": \"SSD\", \"gpu_vram_gb\": 8, \"battery_hours\": 7}",
+      "page": 1,
+      "document_id": "SRC-P0092",
+      "filename": "P0092.json",
+      "synthetic": true,
+      "product_ids": [
+        "P0092"
+      ],
+      "evidence_id": "SRC-P0092-1",
+      "scores": {
+        "vector": 0.9489085347897581,
+        "keyword": 0.8381080446280578,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.37956341391590326,
+        "keyword": 0.20952701115701444,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9390904250729177,
+      "graph_paths": [
+        {
+          "source": "P0092",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B042",
+          "label": "Fictional Novum 42"
+        },
+        {
+          "source": "P0092",
+          "relationship": "BELONGS_TO",
+          "target": "C092",
+          "label": "Laptops / Series 14"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:1024",
+          "label": "storage_gb: 1024"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:8",
+          "label": "gpu_vram_gb: 8"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:7",
+          "label": "battery_hours: 7"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0092",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0092",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0092",
+          "label": "1122.55 USD"
+        },
+        {
+          "source": "P0092",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0092",
+          "label": "P0092.json"
+        },
+        {
+          "source": "P0092",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ092",
+          "label": "FAQ092.json"
+        },
+        {
+          "source": "P0092",
+          "relationship": "SIMILAR_TO",
+          "target": "P0192",
+          "label": "Fictional Novum 42 Laptop 0192"
+        }
+      ],
+      "products": [
+        {
+          "id": "P0092",
+          "name": "Fictional Novum 42 Laptop 0092",
+          "brand_id": "B042",
+          "brand": "Fictional Novum 42",
+          "category_id": "C092",
+          "category": "Laptops / Series 14",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Novum 42 Laptops model 92. ram_gb: 16, storage_gb: 1024, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 1122.55,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 1024,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 8,
+            "battery_hours": 7
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "rerank_score": 1.0329994675802097
+    },
+    {
+      "id": "SRC-P0243-1",
+      "text": "Fictional Kite 43 Laptop 0243\nSYNTHETIC SAMPLE. Fictional Kite 43 Laptops model 243. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nStructured specifications: {\"ram_gb\": 16, \"storage_gb\": 512, \"storage_type\": \"SSD\", \"gpu_vram_gb\": 8, \"battery_hours\": 7}",
+      "page": 1,
+      "document_id": "SRC-P0243",
+      "filename": "P0243.json",
+      "synthetic": true,
+      "product_ids": [
+        "P0243"
+      ],
+      "evidence_id": "SRC-P0243-1",
+      "scores": {
+        "vector": 0.9489085347897581,
+        "keyword": 0.8381080446280578,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.37956341391590326,
+        "keyword": 0.20952701115701444,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9390904250729177,
+      "graph_paths": [
+        {
+          "source": "P0243",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B043",
+          "label": "Fictional Kite 43"
+        },
+        {
+          "source": "P0243",
+          "relationship": "BELONGS_TO",
+          "target": "C043",
+          "label": "Laptops / Series 7"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:512",
+          "label": "storage_gb: 512"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:8",
+          "label": "gpu_vram_gb: 8"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:7",
+          "label": "battery_hours: 7"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0243",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0243",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0243",
+          "label": "223.95 USD"
+        },
+        {
+          "source": "P0243",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0243",
+          "label": "P0243.json"
+        },
+        {
+          "source": "P0243",
+          "relationship": "SIMILAR_TO",
+          "target": "P0343",
+          "label": "Fictional Kite 43 Laptop 0343"
+        }
+      ],
+      "products": [
+        {
+          "id": "P0243",
+          "name": "Fictional Kite 43 Laptop 0243",
+          "brand_id": "B043",
+          "brand": "Fictional Kite 43",
+          "category_id": "C043",
+          "category": "Laptops / Series 7",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Kite 43 Laptops model 243. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 223.95,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 512,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 8,
+            "battery_hours": 7
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "rerank_score": 1.0329994675802097
+    },
+    {
+      "id": "SRC-P0022-1",
+      "text": "Fictional Novum 22 Laptop 0022\nSYNTHETIC SAMPLE. Fictional Novum 22 Laptops model 22. ram_gb: 16, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 9. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nStructured specifications: {\"ram_gb\": 16, \"storage_gb\": 2048, \"storage_type\": \"SSD\", \"gpu_vram_gb\": 12, \"battery_hours\": 9}",
+      "page": 1,
+      "document_id": "SRC-P0022",
+      "filename": "P0022.json",
+      "synthetic": true,
+      "product_ids": [
+        "P0022"
+      ],
+      "products": [
+        {
+          "id": "P0022",
+          "name": "Fictional Novum 22 Laptop 0022",
+          "brand_id": "B022",
+          "brand": "Fictional Novum 22",
+          "category_id": "C022",
+          "category": "Laptops / Series 4",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Novum 22 Laptops model 22. ram_gb: 16, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 9. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 2473.33,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 2048,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 12,
+            "battery_hours": 9
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "evidence_id": "SRC-P0022-1",
+      "scores": {
+        "vector": 0.8954052746644001,
+        "keyword": 0.8381080446280578,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.3581621098657601,
+        "keyword": 0.20952701115701444,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9176891210227746,
+      "rerank_score": 1.009458033125052,
+      "graph_paths": [
+        {
+          "source": "P0022",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B022",
+          "label": "Fictional Novum 22"
+        },
+        {
+          "source": "P0022",
+          "relationship": "BELONGS_TO",
+          "target": "C022",
+          "label": "Laptops / Series 4"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:2048",
+          "label": "storage_gb: 2048"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:12",
+          "label": "gpu_vram_gb: 12"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:9",
+          "label": "battery_hours: 9"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0022",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0022",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0022",
+          "label": "2473.33 USD"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0022",
+          "label": "P0022.json"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN022",
+          "label": "P0022_manual.txt"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ022",
+          "label": "FAQ022.json"
+        },
+        {
+          "source": "P0022",
+          "relationship": "SIMILAR_TO",
+          "target": "P0122",
+          "label": "Fictional Novum 22 Laptop 0122"
+        }
+      ],
+      "selection_reason": "Canonical source added to support structured claims"
+    },
+    {
+      "id": "SRC-P0050-1",
+      "text": "Fictional Vertex 50 Laptop 0050\nSYNTHETIC SAMPLE. Fictional Vertex 50 Laptops model 50. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nStructured specifications: {\"ram_gb\": 16, \"storage_gb\": 512, \"storage_type\": \"SSD\", \"gpu_vram_gb\": 12, \"battery_hours\": 13}",
+      "page": 1,
+      "document_id": "SRC-P0050",
+      "filename": "P0050.json",
+      "synthetic": true,
+      "product_ids": [
+        "P0050"
+      ],
+      "products": [
+        {
+          "id": "P0050",
+          "name": "Fictional Vertex 50 Laptop 0050",
+          "brand_id": "B050",
+          "brand": "Fictional Vertex 50",
+          "category_id": "C050",
+          "category": "Laptops / Series 8",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Vertex 50 Laptops model 50. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 453.56,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 16,
+            "storage_gb": 512,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 12,
+            "battery_hours": 13
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "evidence_id": "SRC-P0050-1",
+      "scores": {
+        "vector": 0.8718378274789926,
+        "keyword": 0.8381080446280578,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.3487351309915971,
+        "keyword": 0.20952701115701444,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.9082621421486116,
+      "rerank_score": 0.9990883563634728,
+      "graph_paths": [
+        {
+          "source": "P0050",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B050",
+          "label": "Fictional Vertex 50"
+        },
+        {
+          "source": "P0050",
+          "relationship": "BELONGS_TO",
+          "target": "C050",
+          "label": "Laptops / Series 8"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:16",
+          "label": "ram_gb: 16"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:512",
+          "label": "storage_gb: 512"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:12",
+          "label": "gpu_vram_gb: 12"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:13",
+          "label": "battery_hours: 13"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0050",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0050",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0050",
+          "label": "453.56 USD"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0050",
+          "label": "P0050.json"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN050",
+          "label": "P0050_manual.txt"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ050",
+          "label": "FAQ050.json"
+        },
+        {
+          "source": "P0050",
+          "relationship": "SIMILAR_TO",
+          "target": "P0150",
+          "label": "Fictional Vertex 50 Laptop 0150"
+        }
+      ],
+      "selection_reason": "Canonical source added to support structured claims"
+    },
+    {
+      "id": "SRC-P0029-1",
+      "text": "Fictional Lumen 29 Laptop 0029\nSYNTHETIC SAMPLE. Fictional Lumen 29 Laptops model 29. ram_gb: 64, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.\nStructured specifications: {\"ram_gb\": 64, \"storage_gb\": 512, \"storage_type\": \"SSD\", \"gpu_vram_gb\": 8, \"battery_hours\": 7}",
+      "page": 1,
+      "document_id": "SRC-P0029",
+      "filename": "P0029.json",
+      "synthetic": true,
+      "product_ids": [
+        "P0029"
+      ],
+      "products": [
+        {
+          "id": "P0029",
+          "name": "Fictional Lumen 29 Laptop 0029",
+          "brand_id": "B029",
+          "brand": "Fictional Lumen 29",
+          "category_id": "C029",
+          "category": "Laptops / Series 5",
+          "domain": "Laptops",
+          "description": "SYNTHETIC SAMPLE. Fictional Lumen 29 Laptops model 29. ram_gb: 64, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 7. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.",
+          "price": 653.24,
+          "currency": "USD",
+          "specifications": {
+            "ram_gb": 64,
+            "storage_gb": 512,
+            "storage_type": "SSD",
+            "gpu_vram_gb": 8,
+            "battery_hours": 7
+          },
+          "features": [
+            "USB-C",
+            "Wi-Fi 6",
+            "machine learning",
+            "CUDA capable"
+          ],
+          "compatibility": [
+            "USB-C"
+          ],
+          "synthetic": true
+        }
+      ],
+      "evidence_id": "SRC-P0029-1",
+      "scores": {
+        "vector": 0.6777919340227283,
+        "keyword": 0.8381080446280578,
+        "graph": 1.0,
+        "metadata": 1.0
+      },
+      "contributions": {
+        "vector": 0.2711167736090913,
+        "keyword": 0.20952701115701444,
+        "graph": 0.25,
+        "metadata": 0.1
+      },
+      "hybrid_score": 0.8306437847661058,
+      "rerank_score": 0.9137081632427164,
+      "graph_paths": [
+        {
+          "source": "P0029",
+          "relationship": "MANUFACTURED_BY",
+          "target": "B029",
+          "label": "Fictional Lumen 29"
+        },
+        {
+          "source": "P0029",
+          "relationship": "BELONGS_TO",
+          "target": "C029",
+          "label": "Laptops / Series 5"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:ram_gb:64",
+          "label": "ram_gb: 64"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_gb:512",
+          "label": "storage_gb: 512"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:storage_type:SSD",
+          "label": "storage_type: SSD"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:gpu_vram_gb:8",
+          "label": "gpu_vram_gb: 8"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_SPECIFICATION",
+          "target": "SPEC:battery_hours:7",
+          "label": "battery_hours: 7"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:Wi-Fi 6",
+          "label": "Wi-Fi 6"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:machine learning",
+          "label": "machine learning"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_FEATURE",
+          "target": "FEAT:CUDA capable",
+          "label": "CUDA capable"
+        },
+        {
+          "source": "P0029",
+          "relationship": "COMPATIBLE_WITH",
+          "target": "COMP:USB-C",
+          "label": "USB-C"
+        },
+        {
+          "source": "P0029",
+          "relationship": "HAS_PRICE",
+          "target": "PRICE:P0029",
+          "label": "653.24 USD"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "SRC-P0029",
+          "label": "P0029.json"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "MAN029",
+          "label": "P0029_manual.txt"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SUPPORTED_BY",
+          "target": "FAQ029",
+          "label": "FAQ029.json"
+        },
+        {
+          "source": "P0029",
+          "relationship": "SIMILAR_TO",
+          "target": "P0129",
+          "label": "Fictional Lumen 29 Laptop 0129"
+        }
+      ],
+      "selection_reason": "Canonical source added to support structured claims"
+    }
+  ],
+  "explanation": {
+    "generation": {
+      "mode": "deterministic evidence rendering",
+      "model": null
+    },
+    "original_query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+    "interpreted_intent": "recommend",
+    "entities": [],
+    "requirements": {
+      "ram_gb": 16,
+      "storage_type": "SSD",
+      "gpu_vram_gb": 8
+    },
+    "inferences": [
+      "Machine learning suitability uses a disclosed heuristic: at least 8 GB GPU VRAM; no benchmark guarantee."
+    ],
+    "documents": [
+      {
+        "id": "MAN022",
+        "filename": "P0022_manual.txt",
+        "page": 1,
+        "chunk_id": "MAN022-1",
+        "synthetic": true
+      },
+      {
+        "id": "MAN050",
+        "filename": "P0050_manual.txt",
+        "page": 1,
+        "chunk_id": "MAN050-1",
+        "synthetic": true
+      },
+      {
+        "id": "MAN029",
+        "filename": "P0029_manual.txt",
+        "page": 1,
+        "chunk_id": "MAN029-1",
+        "synthetic": true
+      },
+      {
+        "id": "SRC-P0092",
+        "filename": "P0092.json",
+        "page": 1,
+        "chunk_id": "SRC-P0092-1",
+        "synthetic": true
+      },
+      {
+        "id": "SRC-P0243",
+        "filename": "P0243.json",
+        "page": 1,
+        "chunk_id": "SRC-P0243-1",
+        "synthetic": true
+      },
+      {
+        "id": "SRC-P0022",
+        "filename": "P0022.json",
+        "page": 1,
+        "chunk_id": "SRC-P0022-1",
+        "synthetic": true
+      },
+      {
+        "id": "SRC-P0050",
+        "filename": "P0050.json",
+        "page": 1,
+        "chunk_id": "SRC-P0050-1",
+        "synthetic": true
+      },
+      {
+        "id": "SRC-P0029",
+        "filename": "P0029.json",
+        "page": 1,
+        "chunk_id": "SRC-P0029-1",
+        "synthetic": true
+      }
+    ],
+    "graph_paths": [
+      {
+        "source": "P0022",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B022",
+        "label": "Fictional Novum 22"
+      },
+      {
+        "source": "P0022",
+        "relationship": "BELONGS_TO",
+        "target": "C022",
+        "label": "Laptops / Series 4"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:2048",
+        "label": "storage_gb: 2048"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:12",
+        "label": "gpu_vram_gb: 12"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:9",
+        "label": "battery_hours: 9"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0022",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0022",
+        "label": "2473.33 USD"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0022",
+        "label": "P0022.json"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN022",
+        "label": "P0022_manual.txt"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ022",
+        "label": "FAQ022.json"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SIMILAR_TO",
+        "target": "P0122",
+        "label": "Fictional Novum 22 Laptop 0122"
+      },
+      {
+        "source": "P0050",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B050",
+        "label": "Fictional Vertex 50"
+      },
+      {
+        "source": "P0050",
+        "relationship": "BELONGS_TO",
+        "target": "C050",
+        "label": "Laptops / Series 8"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:512",
+        "label": "storage_gb: 512"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:12",
+        "label": "gpu_vram_gb: 12"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:13",
+        "label": "battery_hours: 13"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0050",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0050",
+        "label": "453.56 USD"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0050",
+        "label": "P0050.json"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN050",
+        "label": "P0050_manual.txt"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ050",
+        "label": "FAQ050.json"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SIMILAR_TO",
+        "target": "P0150",
+        "label": "Fictional Vertex 50 Laptop 0150"
+      },
+      {
+        "source": "P0029",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B029",
+        "label": "Fictional Lumen 29"
+      },
+      {
+        "source": "P0029",
+        "relationship": "BELONGS_TO",
+        "target": "C029",
+        "label": "Laptops / Series 5"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:64",
+        "label": "ram_gb: 64"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:512",
+        "label": "storage_gb: 512"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:8",
+        "label": "gpu_vram_gb: 8"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:7",
+        "label": "battery_hours: 7"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0029",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0029",
+        "label": "653.24 USD"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0029",
+        "label": "P0029.json"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN029",
+        "label": "P0029_manual.txt"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ029",
+        "label": "FAQ029.json"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SIMILAR_TO",
+        "target": "P0129",
+        "label": "Fictional Lumen 29 Laptop 0129"
+      },
+      {
+        "source": "P0092",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B042",
+        "label": "Fictional Novum 42"
+      },
+      {
+        "source": "P0092",
+        "relationship": "BELONGS_TO",
+        "target": "C092",
+        "label": "Laptops / Series 14"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:1024",
+        "label": "storage_gb: 1024"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:8",
+        "label": "gpu_vram_gb: 8"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:7",
+        "label": "battery_hours: 7"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0092",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0092",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0092",
+        "label": "1122.55 USD"
+      },
+      {
+        "source": "P0092",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0092",
+        "label": "P0092.json"
+      },
+      {
+        "source": "P0092",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ092",
+        "label": "FAQ092.json"
+      },
+      {
+        "source": "P0092",
+        "relationship": "SIMILAR_TO",
+        "target": "P0192",
+        "label": "Fictional Novum 42 Laptop 0192"
+      },
+      {
+        "source": "P0243",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B043",
+        "label": "Fictional Kite 43"
+      },
+      {
+        "source": "P0243",
+        "relationship": "BELONGS_TO",
+        "target": "C043",
+        "label": "Laptops / Series 7"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:512",
+        "label": "storage_gb: 512"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:8",
+        "label": "gpu_vram_gb: 8"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:7",
+        "label": "battery_hours: 7"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0243",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0243",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0243",
+        "label": "223.95 USD"
+      },
+      {
+        "source": "P0243",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0243",
+        "label": "P0243.json"
+      },
+      {
+        "source": "P0243",
+        "relationship": "SIMILAR_TO",
+        "target": "P0343",
+        "label": "Fictional Kite 43 Laptop 0343"
+      },
+      {
+        "source": "P0022",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B022",
+        "label": "Fictional Novum 22"
+      },
+      {
+        "source": "P0022",
+        "relationship": "BELONGS_TO",
+        "target": "C022",
+        "label": "Laptops / Series 4"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:2048",
+        "label": "storage_gb: 2048"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:12",
+        "label": "gpu_vram_gb: 12"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:9",
+        "label": "battery_hours: 9"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0022",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0022",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0022",
+        "label": "2473.33 USD"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0022",
+        "label": "P0022.json"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN022",
+        "label": "P0022_manual.txt"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ022",
+        "label": "FAQ022.json"
+      },
+      {
+        "source": "P0022",
+        "relationship": "SIMILAR_TO",
+        "target": "P0122",
+        "label": "Fictional Novum 22 Laptop 0122"
+      },
+      {
+        "source": "P0050",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B050",
+        "label": "Fictional Vertex 50"
+      },
+      {
+        "source": "P0050",
+        "relationship": "BELONGS_TO",
+        "target": "C050",
+        "label": "Laptops / Series 8"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:16",
+        "label": "ram_gb: 16"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:512",
+        "label": "storage_gb: 512"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:12",
+        "label": "gpu_vram_gb: 12"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:13",
+        "label": "battery_hours: 13"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0050",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0050",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0050",
+        "label": "453.56 USD"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0050",
+        "label": "P0050.json"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN050",
+        "label": "P0050_manual.txt"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ050",
+        "label": "FAQ050.json"
+      },
+      {
+        "source": "P0050",
+        "relationship": "SIMILAR_TO",
+        "target": "P0150",
+        "label": "Fictional Vertex 50 Laptop 0150"
+      },
+      {
+        "source": "P0029",
+        "relationship": "MANUFACTURED_BY",
+        "target": "B029",
+        "label": "Fictional Lumen 29"
+      },
+      {
+        "source": "P0029",
+        "relationship": "BELONGS_TO",
+        "target": "C029",
+        "label": "Laptops / Series 5"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:ram_gb:64",
+        "label": "ram_gb: 64"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_gb:512",
+        "label": "storage_gb: 512"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:storage_type:SSD",
+        "label": "storage_type: SSD"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:gpu_vram_gb:8",
+        "label": "gpu_vram_gb: 8"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_SPECIFICATION",
+        "target": "SPEC:battery_hours:7",
+        "label": "battery_hours: 7"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:Wi-Fi 6",
+        "label": "Wi-Fi 6"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:machine learning",
+        "label": "machine learning"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_FEATURE",
+        "target": "FEAT:CUDA capable",
+        "label": "CUDA capable"
+      },
+      {
+        "source": "P0029",
+        "relationship": "COMPATIBLE_WITH",
+        "target": "COMP:USB-C",
+        "label": "USB-C"
+      },
+      {
+        "source": "P0029",
+        "relationship": "HAS_PRICE",
+        "target": "PRICE:P0029",
+        "label": "653.24 USD"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "SRC-P0029",
+        "label": "P0029.json"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "MAN029",
+        "label": "P0029_manual.txt"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SUPPORTED_BY",
+        "target": "FAQ029",
+        "label": "FAQ029.json"
+      },
+      {
+        "source": "P0029",
+        "relationship": "SIMILAR_TO",
+        "target": "P0129",
+        "label": "Fictional Lumen 29 Laptop 0129"
+      }
+    ],
+    "ranking": [
+      {
+        "evidence_id": "MAN022-1",
+        "scores": {
+          "vector": 1.0,
+          "keyword": 1.0,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.4,
+          "keyword": 0.25,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 1.0,
+        "rerank_score": 1.1
+      },
+      {
+        "evidence_id": "MAN050-1",
+        "scores": {
+          "vector": 0.9885712507910225,
+          "keyword": 1.0,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.395428500316409,
+          "keyword": 0.25,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9954285003164091,
+        "rerank_score": 1.09497135034805
+      },
+      {
+        "evidence_id": "MAN029-1",
+        "scores": {
+          "vector": 0.8640186686710585,
+          "keyword": 1.0,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.3456074674684234,
+          "keyword": 0.25,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9456074674684234,
+        "rerank_score": 1.0401682142152657
+      },
+      {
+        "evidence_id": "SRC-P0092-1",
+        "scores": {
+          "vector": 0.9489085347897581,
+          "keyword": 0.8381080446280578,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.37956341391590326,
+          "keyword": 0.20952701115701444,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9390904250729177,
+        "rerank_score": 1.0329994675802097
+      },
+      {
+        "evidence_id": "SRC-P0243-1",
+        "scores": {
+          "vector": 0.9489085347897581,
+          "keyword": 0.8381080446280578,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.37956341391590326,
+          "keyword": 0.20952701115701444,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9390904250729177,
+        "rerank_score": 1.0329994675802097
+      },
+      {
+        "evidence_id": "SRC-P0022-1",
+        "scores": {
+          "vector": 0.8954052746644001,
+          "keyword": 0.8381080446280578,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.3581621098657601,
+          "keyword": 0.20952701115701444,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9176891210227746,
+        "rerank_score": 1.009458033125052
+      },
+      {
+        "evidence_id": "SRC-P0050-1",
+        "scores": {
+          "vector": 0.8718378274789926,
+          "keyword": 0.8381080446280578,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.3487351309915971,
+          "keyword": 0.20952701115701444,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.9082621421486116,
+        "rerank_score": 0.9990883563634728
+      },
+      {
+        "evidence_id": "SRC-P0029-1",
+        "scores": {
+          "vector": 0.6777919340227283,
+          "keyword": 0.8381080446280578,
+          "graph": 1.0,
+          "metadata": 1.0
+        },
+        "contributions": {
+          "vector": 0.2711167736090913,
+          "keyword": 0.20952701115701444,
+          "graph": 0.25,
+          "metadata": 0.1
+        },
+        "hybrid_score": 0.8306437847661058,
+        "rerank_score": 0.9137081632427164
+      }
+    ],
+    "participating_agents": [
+      "supervisor",
+      "query_understanding",
+      "graph_retrieval",
+      "vector_retrieval",
+      "keyword_retrieval",
+      "hybrid_retrieval",
+      "reasoning",
+      "answer_generation",
+      "explainability",
+      "validation"
+    ],
+    "limitations": [
+      "Retrieval scores are heuristics, not calibrated probabilities.",
+      "Offline hashing embeddings measure lexical overlap, not learned semantic similarity.",
+      "Source-supported does not mean independently verified.",
+      "DOCX page 0 denotes unavailable original pagination."
+    ],
+    "contradictions": []
+  },
+  "validation": {
+    "passed": true,
+    "evidence_coverage": 1.0,
+    "supported_claims": 30,
+    "total_claims": 30,
+    "unsupported_claims": [],
+    "contradictions": [],
+    "abstained": false,
+    "coverage_definition": "Fraction of rendered factual claims with matching canonical source evidence; not answer completeness"
+  },
+  "traces": [
+    {
+      "agent": "supervisor",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.047460+00:00",
+      "end_time": "2026-11-05T15:32:21.047460+00:00",
+      "duration_ms": 0.009,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 0
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "attempt": "1",
+        "top_k": "5"
+      }
+    },
+    {
+      "agent": "query_understanding",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.047460+00:00",
+      "end_time": "2026-11-05T15:32:21.047460+00:00",
+      "duration_ms": 0.819,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "interpreted": 7
+      }
+    },
+    {
+      "agent": "graph_retrieval",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.052951+00:00",
+      "end_time": "2026-11-05T15:32:21.052951+00:00",
+      "duration_ms": 1.653,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "graph_scores": 31,
+        "graph_paths": 31
+      }
+    },
+    {
+      "agent": "keyword_retrieval",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.052951+00:00",
+      "end_time": "2026-11-05T15:32:21.065746+00:00",
+      "duration_ms": 14.676,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "keyword_scores": 650
+      }
+    },
+    {
+      "agent": "vector_retrieval",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.059160+00:00",
+      "end_time": "2026-11-05T15:32:21.065746+00:00",
+      "duration_ms": 11.946,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "vector_scores": 650
+      }
+    },
+    {
+      "agent": "hybrid_retrieval",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.065746+00:00",
+      "end_time": "2026-11-05T15:32:21.075134+00:00",
+      "duration_ms": 3.574,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "evidence": 5
+      }
+    },
+    {
+      "agent": "reasoning",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.075134+00:00",
+      "end_time": "2026-11-05T15:32:21.081302+00:00",
+      "duration_ms": 4.832,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "evidence": 8,
+        "reasoning": 4
+      }
+    },
+    {
+      "agent": "answer_generation",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.081302+00:00",
+      "end_time": "2026-11-05T15:32:21.081302+00:00",
+      "duration_ms": 0.066,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "claims": 30,
+        "answer": "Retrieved source information:\n\nFictional Novum 22 Laptop 0022 \u2014 ram gb: 16, storage gb: 2048, storage type: SSD, gpu vram gb: 12, battery hours: 9. [S",
+        "explanation": 1
+      }
+    },
+    {
+      "agent": "explainability",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.083330+00:00",
+      "end_time": "2026-11-05T15:32:21.083330+00:00",
+      "duration_ms": 0.035,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "explanation": 12
+      }
+    },
+    {
+      "agent": "validation",
+      "status": "success",
+      "start_time": "2026-11-05T15:32:21.083330+00:00",
+      "end_time": "2026-11-05T15:32:21.083330+00:00",
+      "duration_ms": 0.117,
+      "input_summary": {
+        "query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+        "attempt": 1
+      },
+      "error": null,
+      "trace_id": "91f450a496be4fb38daf8605d0464f0d",
+      "output_summary": {
+        "validation": 8
+      }
+    }
+  ],
+  "attempts": 1,
+  "latency_ms": 74.42,
+  "retrieval_ms": 31.849,
+  "interpreted": {
+    "original_query": "Find laptops suitable for machine learning with 16GB RAM and SSD",
+    "normalized_query": "find laptops suitable for machine learning with 16gb ram and ssd",
+    "intent": "recommend",
+    "category": "Laptops",
+    "entities": [],
+    "requirements": {
+      "ram_gb": 16,
+      "storage_type": "SSD",
+      "gpu_vram_gb": 8
+    },
+    "inferences": [
+      "Machine learning suitability uses a disclosed heuristic: at least 8 GB GPU VRAM; no benchmark guarantee."
+    ]
+  }
+}

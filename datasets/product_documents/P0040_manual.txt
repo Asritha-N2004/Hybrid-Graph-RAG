@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 40 Home Appliances model 40. power_watts: 600, capacity_liters: 4, warranty_years: 2. Features: energy saving, timer.
+This fictional manual is for demonstration. No independent performance tests are available.

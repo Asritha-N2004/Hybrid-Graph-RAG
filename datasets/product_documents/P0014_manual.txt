@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 14 Accessories model 14. power_watts: 20, warranty_years: 2, weight_g: 243. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

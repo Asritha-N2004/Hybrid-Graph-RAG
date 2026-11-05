@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 09 Smartphones model 9. ram_gb: 12, storage_gb: 128, battery_mah: 4000, display_inches: 6.4. Features: 5G, OLED, USB-C.
+This fictional manual is for demonstration. No independent performance tests are available.

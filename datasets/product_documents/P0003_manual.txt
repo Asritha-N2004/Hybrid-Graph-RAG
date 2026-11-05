@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Kite 03 Headphones model 3. battery_hours: 17, weight_g: 288, noise_cancellation: True. Features: Bluetooth, wireless audio.
+This fictional manual is for demonstration. No independent performance tests are available.

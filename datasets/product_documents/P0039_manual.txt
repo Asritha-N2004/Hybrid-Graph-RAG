@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 39 Electronics model 39. power_watts: 65, warranty_years: 2, weight_g: 107. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 10 Headphones model 10. battery_hours: 33, weight_g: 206, noise_cancellation: False. Features: Bluetooth, wireless audio.
+This fictional manual is for demonstration. No independent performance tests are available.

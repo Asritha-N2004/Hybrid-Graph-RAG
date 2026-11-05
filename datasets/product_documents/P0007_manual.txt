@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Novum 07 Accessories model 7. power_watts: 100, warranty_years: 2, weight_g: 162. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Aster 21 Accessories model 21. power_watts: 45, warranty_years: 2, weight_g: 323. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

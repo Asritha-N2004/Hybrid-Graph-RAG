@@ -1,0 +1,17 @@
+**/node_modules/
+**/.next/
+**/__pycache__/
+**/.pytest_cache/
+**/.test-data/
+**/*.pyc
+**/*.tsbuildinfo
+**/.venv/
+backend/storage/
+**/.env
+.env
+*.log
+
+.vercel
+.env*
+!.env.example
+!**/.env.example

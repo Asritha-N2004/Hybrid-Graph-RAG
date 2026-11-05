@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Kite 28 Accessories model 28. power_watts: 100, warranty_years: 2, weight_g: 252. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

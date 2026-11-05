@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Kite 18 Electronics model 18. power_watts: 65, warranty_years: 2, weight_g: 133. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

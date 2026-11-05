@@ -1,0 +1,702 @@
+[
+  {
+    "id": "FAQ001",
+    "product_id": "P0001",
+    "question": "What features does Fictional Aster 01 Laptop 0001 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ002",
+    "product_id": "P0002",
+    "question": "What features does Fictional Novum 02 Smartphone 0002 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ003",
+    "product_id": "P0003",
+    "question": "What features does Fictional Kite 03 Headphone 0003 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ004",
+    "product_id": "P0004",
+    "question": "What features does Fictional Lumen 04 Electronic 0004 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ005",
+    "product_id": "P0005",
+    "question": "What features does Fictional Vertex 05 Home Appliance 0005 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ006",
+    "product_id": "P0006",
+    "question": "What features does Fictional Aster 06 Smart Device 0006 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ007",
+    "product_id": "P0007",
+    "question": "What features does Fictional Novum 07 Accessorie 0007 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ008",
+    "product_id": "P0008",
+    "question": "What features does Fictional Kite 08 Laptop 0008 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ009",
+    "product_id": "P0009",
+    "question": "What features does Fictional Lumen 09 Smartphone 0009 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ010",
+    "product_id": "P0010",
+    "question": "What features does Fictional Vertex 10 Headphone 0010 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ011",
+    "product_id": "P0011",
+    "question": "What features does Fictional Aster 11 Electronic 0011 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ012",
+    "product_id": "P0012",
+    "question": "What features does Fictional Novum 12 Home Appliance 0012 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ013",
+    "product_id": "P0013",
+    "question": "What features does Fictional Kite 13 Smart Device 0013 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ014",
+    "product_id": "P0014",
+    "question": "What features does Fictional Lumen 14 Accessorie 0014 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ015",
+    "product_id": "P0015",
+    "question": "What features does Fictional Vertex 15 Laptop 0015 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ016",
+    "product_id": "P0016",
+    "question": "What features does Fictional Aster 16 Smartphone 0016 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ017",
+    "product_id": "P0017",
+    "question": "What features does Fictional Novum 17 Headphone 0017 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ018",
+    "product_id": "P0018",
+    "question": "What features does Fictional Kite 18 Electronic 0018 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ019",
+    "product_id": "P0019",
+    "question": "What features does Fictional Lumen 19 Home Appliance 0019 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ020",
+    "product_id": "P0020",
+    "question": "What features does Fictional Vertex 20 Smart Device 0020 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ021",
+    "product_id": "P0021",
+    "question": "What features does Fictional Aster 21 Accessorie 0021 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ022",
+    "product_id": "P0022",
+    "question": "What features does Fictional Novum 22 Laptop 0022 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ023",
+    "product_id": "P0023",
+    "question": "What features does Fictional Kite 23 Smartphone 0023 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ024",
+    "product_id": "P0024",
+    "question": "What features does Fictional Lumen 24 Headphone 0024 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ025",
+    "product_id": "P0025",
+    "question": "What features does Fictional Vertex 25 Electronic 0025 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ026",
+    "product_id": "P0026",
+    "question": "What features does Fictional Aster 26 Home Appliance 0026 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ027",
+    "product_id": "P0027",
+    "question": "What features does Fictional Novum 27 Smart Device 0027 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ028",
+    "product_id": "P0028",
+    "question": "What features does Fictional Kite 28 Accessorie 0028 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ029",
+    "product_id": "P0029",
+    "question": "What features does Fictional Lumen 29 Laptop 0029 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ030",
+    "product_id": "P0030",
+    "question": "What features does Fictional Vertex 30 Smartphone 0030 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ031",
+    "product_id": "P0031",
+    "question": "What features does Fictional Aster 31 Headphone 0031 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ032",
+    "product_id": "P0032",
+    "question": "What features does Fictional Novum 32 Electronic 0032 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ033",
+    "product_id": "P0033",
+    "question": "What features does Fictional Kite 33 Home Appliance 0033 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ034",
+    "product_id": "P0034",
+    "question": "What features does Fictional Lumen 34 Smart Device 0034 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ035",
+    "product_id": "P0035",
+    "question": "What features does Fictional Vertex 35 Accessorie 0035 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ036",
+    "product_id": "P0036",
+    "question": "What features does Fictional Aster 36 Laptop 0036 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ037",
+    "product_id": "P0037",
+    "question": "What features does Fictional Novum 37 Smartphone 0037 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ038",
+    "product_id": "P0038",
+    "question": "What features does Fictional Kite 38 Headphone 0038 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ039",
+    "product_id": "P0039",
+    "question": "What features does Fictional Lumen 39 Electronic 0039 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ040",
+    "product_id": "P0040",
+    "question": "What features does Fictional Vertex 40 Home Appliance 0040 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ041",
+    "product_id": "P0041",
+    "question": "What features does Fictional Aster 41 Smart Device 0041 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ042",
+    "product_id": "P0042",
+    "question": "What features does Fictional Novum 42 Accessorie 0042 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ043",
+    "product_id": "P0043",
+    "question": "What features does Fictional Kite 43 Laptop 0043 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ044",
+    "product_id": "P0044",
+    "question": "What features does Fictional Lumen 44 Smartphone 0044 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ045",
+    "product_id": "P0045",
+    "question": "What features does Fictional Vertex 45 Headphone 0045 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ046",
+    "product_id": "P0046",
+    "question": "What features does Fictional Aster 46 Electronic 0046 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ047",
+    "product_id": "P0047",
+    "question": "What features does Fictional Novum 47 Home Appliance 0047 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ048",
+    "product_id": "P0048",
+    "question": "What features does Fictional Kite 48 Smart Device 0048 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ049",
+    "product_id": "P0049",
+    "question": "What features does Fictional Lumen 49 Accessorie 0049 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ050",
+    "product_id": "P0050",
+    "question": "What features does Fictional Vertex 50 Laptop 0050 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ051",
+    "product_id": "P0051",
+    "question": "What features does Fictional Aster 01 Smartphone 0051 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ052",
+    "product_id": "P0052",
+    "question": "What features does Fictional Novum 02 Headphone 0052 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ053",
+    "product_id": "P0053",
+    "question": "What features does Fictional Kite 03 Electronic 0053 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ054",
+    "product_id": "P0054",
+    "question": "What features does Fictional Lumen 04 Home Appliance 0054 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ055",
+    "product_id": "P0055",
+    "question": "What features does Fictional Vertex 05 Smart Device 0055 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ056",
+    "product_id": "P0056",
+    "question": "What features does Fictional Aster 06 Accessorie 0056 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ057",
+    "product_id": "P0057",
+    "question": "What features does Fictional Novum 07 Laptop 0057 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ058",
+    "product_id": "P0058",
+    "question": "What features does Fictional Kite 08 Smartphone 0058 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ059",
+    "product_id": "P0059",
+    "question": "What features does Fictional Lumen 09 Headphone 0059 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ060",
+    "product_id": "P0060",
+    "question": "What features does Fictional Vertex 10 Electronic 0060 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ061",
+    "product_id": "P0061",
+    "question": "What features does Fictional Aster 11 Home Appliance 0061 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ062",
+    "product_id": "P0062",
+    "question": "What features does Fictional Novum 12 Smart Device 0062 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ063",
+    "product_id": "P0063",
+    "question": "What features does Fictional Kite 13 Accessorie 0063 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ064",
+    "product_id": "P0064",
+    "question": "What features does Fictional Lumen 14 Laptop 0064 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ065",
+    "product_id": "P0065",
+    "question": "What features does Fictional Vertex 15 Smartphone 0065 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ066",
+    "product_id": "P0066",
+    "question": "What features does Fictional Aster 16 Headphone 0066 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ067",
+    "product_id": "P0067",
+    "question": "What features does Fictional Novum 17 Electronic 0067 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ068",
+    "product_id": "P0068",
+    "question": "What features does Fictional Kite 18 Home Appliance 0068 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ069",
+    "product_id": "P0069",
+    "question": "What features does Fictional Lumen 19 Smart Device 0069 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ070",
+    "product_id": "P0070",
+    "question": "What features does Fictional Vertex 20 Accessorie 0070 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ071",
+    "product_id": "P0071",
+    "question": "What features does Fictional Aster 21 Laptop 0071 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ072",
+    "product_id": "P0072",
+    "question": "What features does Fictional Novum 22 Smartphone 0072 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ073",
+    "product_id": "P0073",
+    "question": "What features does Fictional Kite 23 Headphone 0073 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ074",
+    "product_id": "P0074",
+    "question": "What features does Fictional Lumen 24 Electronic 0074 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ075",
+    "product_id": "P0075",
+    "question": "What features does Fictional Vertex 25 Home Appliance 0075 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ076",
+    "product_id": "P0076",
+    "question": "What features does Fictional Aster 26 Smart Device 0076 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ077",
+    "product_id": "P0077",
+    "question": "What features does Fictional Novum 27 Accessorie 0077 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ078",
+    "product_id": "P0078",
+    "question": "What features does Fictional Kite 28 Laptop 0078 include?",
+    "answer": "USB-C, Wi-Fi 6, everyday computing",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ079",
+    "product_id": "P0079",
+    "question": "What features does Fictional Lumen 29 Smartphone 0079 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ080",
+    "product_id": "P0080",
+    "question": "What features does Fictional Vertex 30 Headphone 0080 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ081",
+    "product_id": "P0081",
+    "question": "What features does Fictional Aster 31 Electronic 0081 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ082",
+    "product_id": "P0082",
+    "question": "What features does Fictional Novum 32 Home Appliance 0082 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ083",
+    "product_id": "P0083",
+    "question": "What features does Fictional Kite 33 Smart Device 0083 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ084",
+    "product_id": "P0084",
+    "question": "What features does Fictional Lumen 34 Accessorie 0084 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ085",
+    "product_id": "P0085",
+    "question": "What features does Fictional Vertex 35 Laptop 0085 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ086",
+    "product_id": "P0086",
+    "question": "What features does Fictional Aster 36 Smartphone 0086 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ087",
+    "product_id": "P0087",
+    "question": "What features does Fictional Novum 37 Headphone 0087 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ088",
+    "product_id": "P0088",
+    "question": "What features does Fictional Kite 38 Electronic 0088 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ089",
+    "product_id": "P0089",
+    "question": "What features does Fictional Lumen 39 Home Appliance 0089 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ090",
+    "product_id": "P0090",
+    "question": "What features does Fictional Vertex 40 Smart Device 0090 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ091",
+    "product_id": "P0091",
+    "question": "What features does Fictional Aster 41 Accessorie 0091 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ092",
+    "product_id": "P0092",
+    "question": "What features does Fictional Novum 42 Laptop 0092 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ093",
+    "product_id": "P0093",
+    "question": "What features does Fictional Kite 43 Smartphone 0093 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ094",
+    "product_id": "P0094",
+    "question": "What features does Fictional Lumen 44 Headphone 0094 include?",
+    "answer": "Bluetooth, wireless audio",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ095",
+    "product_id": "P0095",
+    "question": "What features does Fictional Vertex 45 Electronic 0095 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ096",
+    "product_id": "P0096",
+    "question": "What features does Fictional Aster 46 Home Appliance 0096 include?",
+    "answer": "energy saving, timer",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ097",
+    "product_id": "P0097",
+    "question": "What features does Fictional Novum 47 Smart Device 0097 include?",
+    "answer": "smart home, voice control",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ098",
+    "product_id": "P0098",
+    "question": "What features does Fictional Kite 48 Accessorie 0098 include?",
+    "answer": "USB-C, portable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ099",
+    "product_id": "P0099",
+    "question": "What features does Fictional Lumen 49 Laptop 0099 include?",
+    "answer": "USB-C, Wi-Fi 6, machine learning, CUDA capable",
+    "synthetic": true
+  },
+  {
+    "id": "FAQ100",
+    "product_id": "P0100",
+    "question": "What features does Fictional Vertex 50 Smartphone 0100 include?",
+    "answer": "5G, OLED, USB-C",
+    "synthetic": true
+  }
+]

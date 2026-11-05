@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 45 Headphones model 45. battery_hours: 50, weight_g: 262, noise_cancellation: True. Features: Bluetooth, wireless audio.
+This fictional manual is for demonstration. No independent performance tests are available.

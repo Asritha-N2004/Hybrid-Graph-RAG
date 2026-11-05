@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Aster 11 Electronics model 11. power_watts: 20, warranty_years: 2, weight_g: 233. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

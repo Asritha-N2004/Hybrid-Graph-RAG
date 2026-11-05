@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 50 Laptops model 50. ram_gb: 16, storage_gb: 512, storage_type: SSD, gpu_vram_gb: 12, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.
+This fictional manual is for demonstration. No independent performance tests are available.

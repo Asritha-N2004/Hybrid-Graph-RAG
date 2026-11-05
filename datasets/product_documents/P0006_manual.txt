@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Aster 06 Smart Devices model 6. power_watts: 15, warranty_years: 1, wifi: True. Features: smart home, voice control.
+This fictional manual is for demonstration. No independent performance tests are available.

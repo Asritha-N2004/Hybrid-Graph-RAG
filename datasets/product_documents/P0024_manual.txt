@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 24 Headphones model 24. battery_hours: 15, weight_g: 238, noise_cancellation: False. Features: Bluetooth, wireless audio.
+This fictional manual is for demonstration. No independent performance tests are available.

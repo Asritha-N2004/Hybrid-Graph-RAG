@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Novum 12 Home Appliances model 12. power_watts: 1200, capacity_liters: 4, warranty_years: 2. Features: energy saving, timer.
+This fictional manual is for demonstration. No independent performance tests are available.

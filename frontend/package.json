@@ -1,0 +1,8 @@
+{
+  "name": "productgraph-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev":"next dev --webpack --hostname 127.0.0.1", "build":"next build --webpack", "start":"next start --hostname 0.0.0.0", "typecheck":"tsc --noEmit"},
+  "dependencies": {"next":"^16.0.0", "react":"^19.2.0", "react-dom":"^19.2.0", "axios":"^1.8.4", "lucide-react":"^0.468.0", "recharts":"^3.0.0", "@xyflow/react":"^12.6.0"},
+  "devDependencies": {"typescript":"^5.8.3", "@types/node":"^22.14.0", "@types/react":"^19.1.0", "@types/react-dom":"^19.1.0", "tailwindcss":"^4.1.0", "@tailwindcss/postcss":"^4.1.0"}
+}

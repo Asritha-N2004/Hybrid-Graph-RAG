@@ -1,0 +1,15 @@
+**/node_modules
+**/.next
+**/.test-data
+**/__pycache__
+**/.pytest_cache
+**/.venv
+backend/storage
+**/tests
+**/*.tsbuildinfo
+**/.env*
+**/*.log
+research
+datasets
+docs
+MANIFEST.sha256

@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Vertex 25 Electronics model 25. power_watts: 65, warranty_years: 2, weight_g: 255. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

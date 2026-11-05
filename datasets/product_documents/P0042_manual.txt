@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Novum 42 Accessories model 42. power_watts: 65, warranty_years: 2, weight_g: 306. Features: USB-C, portable.
+This fictional manual is for demonstration. No independent performance tests are available.

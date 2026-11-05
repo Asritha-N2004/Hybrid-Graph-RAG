@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Lumen 19 Home Appliances model 19. power_watts: 600, capacity_liters: 8, warranty_years: 2. Features: energy saving, timer.
+This fictional manual is for demonstration. No independent performance tests are available.

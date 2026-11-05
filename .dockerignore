@@ -1,0 +1,9 @@
+**/node_modules
+**/.next
+**/__pycache__
+**/.pytest_cache
+**/.test-data
+backend/storage
+**/.env
+.git
+*.zip

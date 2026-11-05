@@ -1,0 +1,2 @@
+SYNTHETIC SAMPLE. Fictional Aster 36 Laptops model 36. ram_gb: 64, storage_gb: 2048, storage_type: SSD, gpu_vram_gb: 8, battery_hours: 13. Features: USB-C, Wi-Fi 6, machine learning, CUDA capable.
+This fictional manual is for demonstration. No independent performance tests are available.
